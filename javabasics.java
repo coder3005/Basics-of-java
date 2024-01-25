@@ -1,4 +1,3 @@
-package Basics;
 public class javabasics {
     public static void main(String args[]) {
         System.out.println("Hello World!");  // line ka space
